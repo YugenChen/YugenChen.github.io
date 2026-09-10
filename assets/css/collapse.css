@@ -1,0 +1,34 @@
+.container {
+    width:100%;
+    border:1px solid #d3d3d3;
+}
+.container div {
+    width:100%;
+}
+.container .header {
+    background-color:#d3d3d3;
+    padding: 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.container .content {
+    display: none;
+    padding : 5px;
+}
+
+details.inline-abs {
+  display: inline;
+  margin-left: .5rem;
+}
+details.inline-abs > summary {
+  cursor: pointer;
+  display: inline;
+  color: #3a6ea5;
+}
+details.inline-abs > summary:hover {
+  text-decoration: underline;
+}
+details.inline-abs[open] > summary { font-weight: 600; }
+summary::-webkit-details-marker { display: none; }
+.teaching-list { list-style: none; padding-left: 0; }
+.teaching-list li { margin: .25rem 0; }

@@ -1,0 +1,88 @@
+---
+---
+
+// ========== 主题样式导入（保持你的原顺序即可） ==========
+@import
+  "vendor/breakpoint/breakpoint",
+
+  "themes",
+  "theme/default",
+  "theme/dark",
+
+  "include/mixins",
+  "vendor/susy/susy",
+
+  "layout/reset",
+  "layout/base",
+
+  "include/utilities",
+  "layout/tables",
+  "layout/buttons",
+  "layout/notices",
+  "layout/masthead",
+  "layout/navigation",
+  "layout/footer",
+  "syntax",
+
+  "layout/forms",
+
+  "layout/page",
+  "layout/archive",
+  "layout/sidebar",
+
+  "vendor/font-awesome/fontawesome",
+  "vendor/font-awesome/solid",
+  "vendor/font-awesome/brands",
+  "vendor/magnific-popup/magnific-popup"
+;
+
+// ========== 你的自定义样式 ==========
+
+html { scroll-behavior: smooth; }
+
+/* ----------- 全局设置：放宽整体宽度 ----------- */
+:root {
+  --site-max-width: 1200px; /* 可调至 1280px / 1360px */
+}
+
+/* 主页面内容区域居中 */
+.page {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 解除正文的最大宽度限制 */
+.page__content {
+  max-width: none;
+}
+
+/* ----------- 调整 author_profile 宽度 & 正文比例 ----------- */
+@media screen and (min-width: 64em) {
+  /* 使用网格布局分配空间 */
+  .layout--single #main {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 260px; /* 右栏宽度：260px，可改240/220 */
+    column-gap: 2rem;
+    max-width: var(--site-max-width);
+    margin: 0 auto;
+  }
+
+  /* 解锁主题内部限制，让正文占满左栏 */
+  .layout--single .page,
+  .layout--single .page__content,
+  .layout--single .page__inner-wrap,
+  .layout--single .initial-content {
+    max-width: none;
+  }
+
+  /* 让作者栏宽度由 grid 控制 */
+  .layout--single .sidebar {
+    width: auto !important;
+  }
+}
+
+/* 可选：略微减小作者头像卡片内部留白 */
+.author__bio {
+  font-size: 0.9em;
+  line-height: 1.4;
+}
