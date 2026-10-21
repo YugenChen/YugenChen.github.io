@@ -141,6 +141,27 @@
   }
 }
 
+// Let the institution wrap within the sidebar, aligned after its icon.
+.sidebar .author__employer {
+  white-space: normal;
+
+  @media screen and (min-width: 1024px) {
+    display: grid;
+    grid-template-columns: 1.25em minmax(0, 1fr);
+    column-gap: 0.35em;
+    align-items: start;
+  }
+
+  > i {
+    padding-right: 0;
+  }
+
+  > span {
+    min-width: 0;
+    white-space: normal;
+  }
+}
+
 .author__pronouns {
   margin: 0;
 
