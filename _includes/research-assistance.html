@@ -1,3 +1,11 @@
 {% for experience in site.data.research_assistance %}
-- **{{ experience.professor }}**, {{ experience.dates }}
+<article class="research-assistance">
+  <h3>{{ experience.project | escape }}</h3>
+  <p>{{ experience.institution | escape }}<br>
+  <em>Research Assistant for {% for professor in experience.professors %}Professor {{ professor | escape }}{% unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless %}{% endfor %}</em><br>
+  {{ experience.dates | escape }}</p>
+  <ul>
+    {% for detail in experience.details %}<li>{{ detail | escape }}</li>{% endfor %}
+  </ul>
+</article>
 {% endfor %}

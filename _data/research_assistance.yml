@@ -1,7 +1,28 @@
-# Research Assistant entries from the uploaded CV; names and dates only.
-- professor: "Timothy Armstrong"
-  dates: "2022–2023"
-- professor: "Karen Van Nuys"
-  dates: "2023–2025"
-- professor: "Alice Chen"
-  dates: "2025–Present"
+# Project details and updated dates from the owner's supplied experience screenshot.
+- project: "PBM rebate rule"
+  institution: "USC Leonard D. Schaeffer Center for Health Policy & Economics"
+  professors:
+    - "Alice Chen"
+    - "Darius Lakdawalla"
+    - "Karen Van Nuys"
+  dates: "09/2024–Present"
+  details:
+    - "Studied the impact of PBM rebate rules on pharmaceutical pricing using CRSP stock market data."
+    - "Used large language models (GPT, Grok, and Deepseek) to identify trading entities on the announcement day."
+- project: "Concentration of the US PBM industry and its impact on the US pharmacy landscape"
+  institution: "USC Leonard D. Schaeffer Center for Health Policy & Economics"
+  professors:
+    - "Dima M. Qato"
+    - "Karen Van Nuys"
+  dates: "08/2023–Present"
+  details:
+    - "Analyzed IQVIA retail pharmacy claims and mapped PBM market concentration (HHI) by payer and region."
+    - "Collaborated with an interdisciplinary team and coauthored papers published in JAMA."
+- project: "Stata routine for -rdhonest-"
+  institution: "Department of Economics, USC"
+  professors:
+    - "Timothy Armstrong"
+  dates: "06/2022–05/2023"
+  details:
+    - "Developed a Stata routine in Mata for rdhonest, a regression discontinuity method."
+    - "Resolved user issues and improved routine functionality."

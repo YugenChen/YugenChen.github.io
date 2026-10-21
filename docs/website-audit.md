@@ -45,3 +45,7 @@ Removed the duplicate homepage CV/email row while keeping the header CV and side
 ## Abstract size, CV-style publications and research assistance
 
 Abstract controls and text now match paper-title sizing, with a smaller gap after coauthors. Publications render as complete CV-style citations: authors, title, venue/year/status, then [Article]. The global-health report uses Chen Y. and the specified forthcoming citation; its missing article URL remains an unlinked placeholder. Research Assistance follows Teaching and lists only Timothy Armstrong (2022–2023), Karen Van Nuys (2023–2025), and Alice Chen (2025–Present), matching the CV's Research Assistant entries.
+
+## Author emphasis and expanded research assistance
+
+Every publication citation now bolds Chen Y in its author list. Research Assistance now uses the owner's latest experience screenshot, superseding the earlier CV-only summary: PBM rebate rule (09/2024–Present), PBM industry concentration (08/2023–Present), and the rdhonest Stata routine (06/2022–05/2023). Each project includes its institution, supervisors with Professor before each name, dates, and concise descriptions grounded in the screenshot. The owner's latest sidebar biography is preserved.
