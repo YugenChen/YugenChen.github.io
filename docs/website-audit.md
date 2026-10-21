@@ -57,3 +57,7 @@ The latest layout screenshot supersedes the expanded experience entries above. R
 ## Combined TA/RA section
 
 Teaching and Research Assistance are now peer H3 subsections within the H2 TA/RA section. Their existing content templates and styling are unchanged. The masthead links to TA/RA; the existing teaching and research-assistance anchors continue to work.
+
+## Matching teaching and research assistance lists
+
+Teaching is now labeled Teaching Assistance on the homepage and standalone teaching page. Research Assistance uses the same Markdown list format as Teaching Assistance, with Professor names bolded like course titles, followed by dates and research topics in regular text. The earlier two-line RA-only styles were removed; all names, dates, topics, and existing anchors are retained.

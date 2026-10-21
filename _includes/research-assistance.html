@@ -1,9 +1,3 @@
 {% for experience in site.data.research_assistance %}
-<article class="research-assistance">
-  <p class="research-assistance__header">
-    <span>Professor {{ experience.professor | escape }}</span>
-    <span class="research-assistance__dates">{{ experience.dates | escape }}</span>
-  </p>
-  <p class="research-assistance__topic"><em>{{ experience.topic | escape }}</em></p>
-</article>
+- **Professor {{ experience.professor | escape }}**, {{ experience.dates | escape }} — {{ experience.topic | escape }}.
 {% endfor %}

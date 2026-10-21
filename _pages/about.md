@@ -20,7 +20,7 @@ My research focuses on **Health Economics, Industrial Organization, and Pharmace
 
 ## TA/RA {#ta-ra}
 
-### Teaching {#teaching}
+### Teaching Assistance {#teaching}
 
 {% include teaching-list.html %}
 
