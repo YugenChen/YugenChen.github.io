@@ -1,0 +1,4 @@
+{% assign publication = include.paper %}
+<article class="research-paper publication">
+  <h4 class="publication-citation">{{ publication.authors }} {{ publication.title }}. {{ publication.venue }} {% if publication.url %}<a class="paper-article-link" href="{{ publication.url }}">[Article]</a>{% else %}<span class="paper-article-link" title="Article link to be added">[Article]</span>{% endif %}</h4>
+</article>

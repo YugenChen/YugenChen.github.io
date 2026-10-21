@@ -21,3 +21,7 @@ My research focuses on **Health Economics, Industrial Organization, and Pharmace
 ## Teaching {#teaching}
 
 {% include teaching-list.html %}
+
+## Research Assistance {#research-assistance}
+
+{% include research-assistance.html %}

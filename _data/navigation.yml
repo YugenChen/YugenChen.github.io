@@ -4,5 +4,7 @@ main:
     url: /#research
   - title: "Teaching"
     url: /#teaching
+  - title: "Research Assistance"
+    url: /#research-assistance
   - title: "CV"
     url: /files/yugen-chen-cv.pdf

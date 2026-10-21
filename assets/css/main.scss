@@ -89,11 +89,31 @@ html { scroll-behavior: smooth; }
 
 // Match coauthors, author lists and publication details to the paper-title size.
 .research-paper .paper-title,
-.research-paper .paper-meta {
+.research-paper .paper-meta,
+.research-paper .publication-citation,
+.research-paper .paper-abstract {
   font-size: $type-size-6;
 }
 
-.research-paper .paper-title .paper-article-link {
+.research-paper .paper-article-link {
   font-size: inherit;
   white-space: nowrap;
+}
+
+.research-paper .paper-meta {
+  margin-bottom: 0.35em;
+}
+
+.research-paper .paper-abstract {
+  margin-top: 0.2em;
+
+  summary,
+  p {
+    font-size: inherit;
+  }
+}
+
+.research-paper .publication-citation {
+  font-weight: normal;
+  line-height: 1.5;
 }

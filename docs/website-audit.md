@@ -41,3 +41,7 @@ Research and Teaching remain H2 sections. Job Market Paper, Working Papers / Wor
 ## Research typography follow-up
 
 Removed the duplicate homepage CV/email row while keeping the header CV and sidebar Email links. Paper coauthors, publication authors and venue information now share the title font size. Working-paper/work-in-progress status labels no longer render. Article links appear inline as [Article] immediately after publication titles and inherit the title font size. The global-health spending report's abstract remains in source data but is hidden on the site.
+
+## Abstract size, CV-style publications and research assistance
+
+Abstract controls and text now match paper-title sizing, with a smaller gap after coauthors. Publications render as complete CV-style citations: authors, title, venue/year/status, then [Article]. The global-health report uses Chen Y. and the specified forthcoming citation; its missing article URL remains an unlinked placeholder. Research Assistance follows Teaching and lists only Timothy Armstrong (2022–2023), Karen Van Nuys (2023–2025), and Alice Chen (2025–Present), matching the CV's Research Assistant entries.
