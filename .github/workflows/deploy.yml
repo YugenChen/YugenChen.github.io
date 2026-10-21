@@ -29,7 +29,12 @@ jobs:
           bundle install
 
       - name: Build site with Jekyll
-        run: bundle exec jekyll build -d _site
+        run: bundle exec jekyll build --strict_front_matter -d _site
+        env:
+          JEKYLL_ENV: production
+
+      - name: Verify internal links and site content
+        run: bundle exec ruby scripts/check_site.rb _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

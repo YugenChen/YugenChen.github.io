@@ -1,0 +1,3 @@
+{% for course in site.data.cv.teaching %}
+- **{{ course.course }}**, {{ course.institution }} — {{ course.role }}, {{ course.description }}.
+{% endfor %}

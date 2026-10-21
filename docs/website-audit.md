@@ -1,0 +1,35 @@
+# Website update audit
+
+Audited all 313 original tracked files, including text/configuration, PDF contents, and profile-image candidates. The full file-by-file inventory is in content-inventory.tsv.
+
+## Changes
+
+- `_config.yml`: accurate identity, position, affiliation, research description, GitHub username, uploaded profile image, and exclusions for template/development sources. Existing root-site URL/baseurl/repository retained.
+- `_pages/about.md`, `_data/research.yml`, `_includes/research.html`: introduction, Job Market Paper, other working papers, work in progress, and publications grounded in the supplied CV and project descriptions. Public article URLs were extracted from the CV's hyperlinks.
+- `_data/navigation.yml`: working Research, Job Market Paper, Teaching, and CV links.
+- `files/cv.pdf`: latest supplied CV, byte-for-byte; lowercase canonical filename. Former owner's uppercase CV and main paper removed.
+- `images/yugen-chen-profile.jpg`: resized, compressed web copy of the supplied photo, without retouching. Six former-owner profile JPEGs removed; an unused UUID-named portrait is unverified and has not been configured as Yugen Chen.
+- `_data/authors.yml`, `_data/cv.json`, `_pages/cv.md`, `_pages/cv-json.md`: replace example identities and qualifications with verified data; correct CV summary links and redirects.
+- `_pages/teaching.html`, `_includes/teaching-list.html`: verified teaching experience from the supplied CV.
+- `_pages/publications.html`, `_pages/portfolio.html`, `_pages/talks.html`, `_pages/talkmap.html`: accurate research/presentation content; remove demonstration claims and sample map from the public site.
+- `_includes/author-profile.html`, `_includes/head/custom.html`, `_includes/footer/custom.html`, `_includes/cv-template.html`, `images/manifest.json`: missing-photo guard and baseurl-safe website, favicon, sitemap, CV and manifest links.
+- `.github/workflows/deploy.yml`: preserve the existing build/artifact/deploy jobs, Ruby version, branch and permissions; add strict front matter and generated-site verification before upload.
+- `scripts/check_site.rb`: verify YAML/JSON, generated links/fragments/assets, source exclusions, CV presence and absence of known former-owner/demo content.
+- `README.md`, `docs/`: maintenance/deployment instructions and audit inventory.
+- `_template_examples/`: retain demonstration collections, posts, comments, pages, PDFs, map assets and original README as excluded reference material. Layouts, typography, Sass, collection definitions and development tools are preserved.
+
+## Removed former-owner content
+
+Homepage pension/insurance, marriage, housing, Dibao, land-expropriation and migration research; all associated coauthors and abstracts; the previous teaching list and job-market year; both old CV PDFs, the linked main paper and six profile portraits. Sample publications, qualifications, courses, talks, posts, comments and map locations no longer publish under Yugen Chen's identity. Original Git history remains intact.
+
+## Remaining information
+
+Public JMP and working-paper PDF URLs are intentionally blank and visibly marked. No paper results, titles, coauthors or publication status were invented. The homepage uses the owner's requested fields; the uploaded PDF remains unchanged.
+
+## Verification
+
+Ruby 3.2.3 / Jekyll 4.4.1 production build succeeded with strict front matter. Root-site and simulated `/Yugen-Website` builds passed YAML/JSON, internal-link, fragment and asset checks (19 HTML pages, 378 internal targets before article-link additions). Existing vendor Sass emits deprecation warnings but the build succeeds. No typography/layout redesign was made. Deployment status is reported separately after the GitHub Actions run.
+
+## Repository / public address
+
+The repository was already renamed to `YugenChen/YugenChen.github.io`; `Yugen-Website` redirects to it. Root-site configuration: `url: https://yugenchen.github.io`, `baseurl: ""`. Public address: https://yugenchen.github.io/.

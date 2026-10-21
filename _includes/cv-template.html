@@ -23,7 +23,7 @@
       
       {% if cv.basics.website %}
       <div class="cv-contact-item">
-        <i class="fas fa-globe"></i> <a href="{{ cv.basics.website }}" target="_blank">{{ cv.basics.website }}</a>
+        <i class="fas fa-globe"></i> <a href="{% if cv.basics.website == site.url %}{{ '/' | relative_url }}{% else %}{{ cv.basics.website }}{% endif %}" target="_blank">{{ cv.basics.website }}</a>
       </div>
       {% endif %}
       

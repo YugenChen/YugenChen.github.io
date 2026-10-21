@@ -1,0 +1,314 @@
+Original repository path	Classification	Disposition	Owner/template identifiers in original text
+.devcontainer/devcontainer.json	Site/configuration/development source	Preserved or updated as shown in diff	—
+.github/ISSUE_TEMPLATE/bug_report.md	Site/configuration/development source	Preserved or updated as shown in diff	—
+.github/ISSUE_TEMPLATE/feature_request.md	Site/configuration/development source	Preserved or updated as shown in diff	—
+.github/workflows/deploy.yml	Site/configuration/development source	Preserved or updated as shown in diff	—
+.github/workflows/scrape_talks.yml	Site/configuration/development source	Preserved or updated as shown in diff	—
+.gitignore	Site/configuration/development source	Preserved or updated as shown in diff	—
+CONTRIBUTING.md	Site/configuration/development source	Preserved or updated as shown in diff	—
+Dockerfile	Site/configuration/development source	Preserved or updated as shown in diff	—
+Gemfile	Site/configuration/development source	Preserved or updated as shown in diff	—
+LICENSE	Site/configuration/development source	Preserved or updated as shown in diff	—
+README.md	Template example content/assets	Preserved at _template_examples/README.md; excluded from publication	—
+_config.yml	Site/configuration/development source	Preserved or updated as shown in diff	—
+_config_docker.yml	Site/configuration/development source	Preserved or updated as shown in diff	—
+_data/authors.yml	Identity/research/CV	Replaced with verified Yugen Chen content	Name Name; Name2 Name2
+_data/comments/layout-comments/comment-1470944006665.yml	Template example content/assets	Preserved at _template_examples/_data/comments/layout-comments/comment-1470944006665.yml; excluded from publication	—
+_data/comments/layout-comments/comment-1470944162041.yml	Template example content/assets	Preserved at _template_examples/_data/comments/layout-comments/comment-1470944162041.yml; excluded from publication	—
+_data/comments/markup-syntax-highlighting/comment-1470969665387.yml	Template example content/assets	Preserved at _template_examples/_data/comments/markup-syntax-highlighting/comment-1470969665387.yml; excluded from publication	—
+_data/comments/welcome-to-jekyll/comment-1470942205700.yml	Template example content/assets	Preserved at _template_examples/_data/comments/welcome-to-jekyll/comment-1470942205700.yml; excluded from publication	—
+_data/comments/welcome-to-jekyll/comment-1470942247755.yml	Template example content/assets	Preserved at _template_examples/_data/comments/welcome-to-jekyll/comment-1470942247755.yml; excluded from publication	—
+_data/comments/welcome-to-jekyll/comment-1470942265819.yml	Template example content/assets	Preserved at _template_examples/_data/comments/welcome-to-jekyll/comment-1470942265819.yml; excluded from publication	—
+_data/comments/welcome-to-jekyll/comment-1470942493518.yml	Template example content/assets	Preserved at _template_examples/_data/comments/welcome-to-jekyll/comment-1470942493518.yml; excluded from publication	—
+_data/cv.json	Identity/research/CV	Replaced with verified Yugen Chen content	GitHub University; Paper Title Number; Red Brick University; Your Sidebar Name
+_data/navigation.yml	Identity/research/CV	Replaced with verified Yugen Chen content	—
+_data/ui-text.yml	Site/configuration/development source	Preserved or updated as shown in diff	—
+_drafts/post-draft.md	Template example content/assets	Preserved at _template_examples/_drafts/post-draft.md; excluded from publication	—
+_includes/analytics-providers/custom.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/analytics-providers/google-analytics-4.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/analytics-providers/google-universal.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/analytics-providers/google.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/analytics.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/archive-single-cv.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/archive-single-talk-cv.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/archive-single-talk.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/archive-single.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/author-profile.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/base_path	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/breadcrumbs.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/browser-upgrade.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/category-list.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comment.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comments-providers/custom.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comments-providers/discourse.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comments-providers/disqus.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comments-providers/facebook.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comments-providers/google-plus.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comments-providers/scripts.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comments-providers/staticman.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/comments.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/cv-template.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/feature_row	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/footer.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/footer/custom.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/gallery	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/group-by-array	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/head.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/head/custom.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/masthead.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/nav_list	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/page__hero.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/page__taxonomy.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/paginator.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/post_pagination.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/read-time.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/scripts.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/seo.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/sidebar.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/social-share.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/tag-list.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_includes/toc	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_layouts/archive-taxonomy.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_layouts/archive.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_layouts/compress.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_layouts/cv-layout.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_layouts/default.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_layouts/single.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_layouts/splash.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_layouts/talk.html	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_pages/404.md	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/about.md	Identity/research/CV	Replaced with verified Yugen Chen content	Danli Shen; Xiang Zhang; Ying Lu
+_pages/archive-layout-with-content.md	Template example content/assets	Preserved at _template_examples/_pages/archive-layout-with-content.md; excluded from publication	—
+_pages/category-archive.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/collection-archive.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/cv-json.md	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/cv.md	Identity/research/CV	Replaced with verified Yugen Chen content	GitHub University
+_pages/markdown.md	Template example content/assets	Preserved at _template_examples/_pages/markdown.md; excluded from publication	—
+_pages/non-menu-page.md	Template example content/assets	Preserved at _template_examples/_pages/non-menu-page.md; excluded from publication	—
+_pages/page-archive.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/portfolio.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/publications.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/sitemap.md	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/tag-archive.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/talkmap.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/talks.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/teaching.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_pages/terms.md	Template example content/assets	Preserved at _template_examples/_pages/terms.md; excluded from publication	—
+_pages/year-archive.html	Site/configuration/development source	Preserved or updated as shown in diff	—
+_portfolio/portfolio-1.md	Template example content/assets	Preserved at _template_examples/_portfolio/portfolio-1.md; excluded from publication	—
+_portfolio/portfolio-2.html	Template example content/assets	Preserved at _template_examples/_portfolio/portfolio-2.html; excluded from publication	—
+_posts/2012-08-14-blog-post-1.md	Template example content/assets	Preserved at _template_examples/_posts/2012-08-14-blog-post-1.md; excluded from publication	—
+_posts/2013-08-14-blog-post-2.md	Template example content/assets	Preserved at _template_examples/_posts/2013-08-14-blog-post-2.md; excluded from publication	—
+_posts/2014-08-14-blog-post-3.md	Template example content/assets	Preserved at _template_examples/_posts/2014-08-14-blog-post-3.md; excluded from publication	—
+_posts/2015-08-14-blog-post-4.md	Template example content/assets	Preserved at _template_examples/_posts/2015-08-14-blog-post-4.md; excluded from publication	—
+_posts/2199-01-01-future-post.md	Template example content/assets	Preserved at _template_examples/_posts/2199-01-01-future-post.md; excluded from publication	—
+_publications/2009-10-01-paper-title-number-1.md	Template example content/assets	Preserved at _template_examples/_publications/2009-10-01-paper-title-number-1.md; excluded from publication	Paper Title Number
+_publications/2010-10-01-paper-title-number-2.md	Template example content/assets	Preserved at _template_examples/_publications/2010-10-01-paper-title-number-2.md; excluded from publication	Paper Title Number
+_publications/2015-10-01-paper-title-number-3.md	Template example content/assets	Preserved at _template_examples/_publications/2015-10-01-paper-title-number-3.md; excluded from publication	Paper Title Number
+_publications/2024-02-17-paper-title-number-4.md	Template example content/assets	Preserved at _template_examples/_publications/2024-02-17-paper-title-number-4.md; excluded from publication	Paper Title Number
+_sass/_syntax.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/_themes.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/include/_mixins.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/include/_utilities.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_archive.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_base.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_buttons.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_footer.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_forms.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_masthead.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_navigation.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_notices.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_page.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_reset.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_sidebar.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/layout/_tables.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/theme/_dark.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/theme/_default.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/_breakpoint.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/_context.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/_helpers.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/_legacy-settings.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/_no-query.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/_parsers.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/_respond-to.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/_settings.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/_double.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/_query.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/_resolution.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/_single.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/_triple.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/double/_default-pair.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/double/_default.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/double/_double-string.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/resolution/_resolution.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/single/_default.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/breakpoint/parsers/triple/_default.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_animated.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_bordered-pulled.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_core.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_fixed-width.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_functions.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_icons.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_list.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_mixins.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_rotated-flipped.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_screen-reader.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_shims.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_sizing.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_stacked.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/_variables.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/brands.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/fontawesome.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/regular.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/solid.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/font-awesome/v4-shims.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/magnific-popup/_magnific-popup.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/magnific-popup/_settings.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/_su.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/_susy.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/_susyone.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/_su.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/_susy.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/_susyone.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_background.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_bleed.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_box-sizing.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_breakpoint-plugin.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_container.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_context.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_gallery.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_grids.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_gutters.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_isolate.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_margins.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_padding.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_rows.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_settings.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_span.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susy/_validation.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susyone/_background.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susyone/_functions.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susyone/_grid.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susyone/_isolation.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susyone/_margin.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susyone/_media.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susyone/_padding.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/language/susyone/_settings.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/_float.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/_shared.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/_support.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/float/_container.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/float/_end.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/float/_isolate.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/float/_span.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/shared/_background.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/shared/_container.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/shared/_direction.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/shared/_inspect.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/shared/_margins.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/shared/_output.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/shared/_padding.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/support/_background.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/support/_box-sizing.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/support/_clearfix.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/support/_prefix.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/support/_rem.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/output/support/_support.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/su/_grid.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/su/_settings.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/su/_utilities.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_sass/vendor/susy/susy/su/_validation.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+_talks/2012-03-01-talk-1.md	Template example content/assets	Preserved at _template_examples/_talks/2012-03-01-talk-1.md; excluded from publication	—
+_talks/2013-03-01-tutorial-1.md	Template example content/assets	Preserved at _template_examples/_talks/2013-03-01-tutorial-1.md; excluded from publication	—
+_talks/2014-02-01-talk-2.md	Template example content/assets	Preserved at _template_examples/_talks/2014-02-01-talk-2.md; excluded from publication	—
+_talks/2014-03-01-talk-3.md	Template example content/assets	Preserved at _template_examples/_talks/2014-03-01-talk-3.md; excluded from publication	—
+_teaching/2014-spring-teaching-1.md	Template example content/assets	Preserved at _template_examples/_teaching/2014-spring-teaching-1.md; excluded from publication	—
+_teaching/2015-spring-teaching-2.md	Template example content/assets	Preserved at _template_examples/_teaching/2015-spring-teaching-2.md; excluded from publication	—
+assets/css/academicons.css	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/css/academicons.min.css	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/css/collapse.css	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/css/cv-layout.css	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/css/cv-style.css	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/css/main.scss	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/fonts/academicons.eot	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/fonts/academicons.svg	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/fonts/academicons.ttf	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/fonts/academicons.woff	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/js/_main.js	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/js/collapse.js	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/js/main.min.js	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/js/plugins/jquery.greedy-navigation.js	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/webfonts/fa-brands-400.ttf	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/webfonts/fa-brands-400.woff2	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/webfonts/fa-regular-400.ttf	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/webfonts/fa-regular-400.woff2	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/webfonts/fa-solid-900.ttf	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/webfonts/fa-solid-900.woff2	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/webfonts/fa-v4compatibility.ttf	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+assets/webfonts/fa-v4compatibility.woff2	Theme/layout/vendor functionality	Preserved except small functionality/path fixes shown in diff	—
+docker-compose.yaml	Site/configuration/development source	Preserved or updated as shown in diff	—
+files/CV.pdf	Former-owner document/portrait	Removed from current tree; retained in Git history	—
+files/bibtex1.bib	Template example content/assets	Preserved at _template_examples/files/bibtex1.bib; excluded from publication	—
+files/cv.pdf	Identity/research/CV	Replaced with verified Yugen Chen content	—
+files/main.pdf	Former-owner document/portrait	Removed from current tree; retained in Git history	—
+files/paper1.pdf	Template example content/assets	Preserved at _template_examples/files/paper1.pdf; excluded from publication	—
+files/paper2.pdf	Template example content/assets	Preserved at _template_examples/files/paper2.pdf; excluded from publication	—
+files/paper3.pdf	Template example content/assets	Preserved at _template_examples/files/paper3.pdf; excluded from publication	—
+files/slides1.pdf	Template example content/assets	Preserved at _template_examples/files/slides1.pdf; excluded from publication	—
+files/slides2.pdf	Template example content/assets	Preserved at _template_examples/files/slides2.pdf; excluded from publication	—
+files/slides3.pdf	Template example content/assets	Preserved at _template_examples/files/slides3.pdf; excluded from publication	—
+images/3953273590_704e3899d5_m.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/500x300.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/apple-touch-icon-180x180.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/b486e40f-a98c-45c1-b663-a9174b020ade.jpeg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/bio-photo-2.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/bio-photo.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/editing-talk.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/favicon-192x192.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/favicon-32x32.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/favicon-512x512.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/favicon.ico	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/favicon.svg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/foo-bar-identity-th.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/foo-bar-identity.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/homepage.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/image-alignment-1200x4002.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/image-alignment-150x150.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/image-alignment-300x200.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/image-alignment-580x300.jpg	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/manifest.json	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/paragraph-indent.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/paragraph-no-indent.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/profile.jpg	Former-owner document/portrait	Removed from current tree; retained in Git history	—
+images/profile1.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/profile_square.jpg	Former-owner document/portrait	Removed from current tree; retained in Git history	—
+images/profile_square1.jpg	Former-owner document/portrait	Removed from current tree; retained in Git history	—
+images/profile_square2.jpg	Former-owner document/portrait	Removed from current tree; retained in Git history	—
+images/profile_square3.jpg	Former-owner document/portrait	Removed from current tree; retained in Git history	—
+images/profile_square4.jpg	Former-owner document/portrait	Removed from current tree; retained in Git history	—
+images/site-logo.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/themes/homepage-dark.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+images/themes/homepage-light.png	Image/icon asset	Preserved; no former-owner portrait configured	—
+markdown_generator/OrcidToBib.ipynb	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+markdown_generator/PubsFromBib.ipynb	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+markdown_generator/publications.ipynb	Template generator/sample data	Preserved; excluded from publication; replace samples before use	Paper Title Number
+markdown_generator/publications.py	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+markdown_generator/publications.tsv	Template generator/sample data	Preserved; excluded from publication; replace samples before use	Paper Title Number
+markdown_generator/pubsFromBib.py	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+markdown_generator/readme.md	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+markdown_generator/talks.ipynb	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+markdown_generator/talks.py	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+markdown_generator/talks.tsv	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+package.json	Site/configuration/development source	Preserved or updated as shown in diff	—
+scripts/cv_markdown_to_json.py	Site/configuration/development source	Preserved or updated as shown in diff	—
+scripts/update_cv_json.sh	Site/configuration/development source	Preserved or updated as shown in diff	—
+talkmap.ipynb	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+talkmap.py	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—
+talkmap/leaflet_dist/MarkerCluster.Default.css	Template example content/assets	Preserved at _template_examples/talkmap/leaflet_dist/MarkerCluster.Default.css; excluded from publication	—
+talkmap/leaflet_dist/MarkerCluster.css	Template example content/assets	Preserved at _template_examples/talkmap/leaflet_dist/MarkerCluster.css; excluded from publication	—
+talkmap/leaflet_dist/leaflet.markercluster-src.js	Template example content/assets	Preserved at _template_examples/talkmap/leaflet_dist/leaflet.markercluster-src.js; excluded from publication	—
+talkmap/leaflet_dist/leaflet.markercluster.js	Template example content/assets	Preserved at _template_examples/talkmap/leaflet_dist/leaflet.markercluster.js; excluded from publication	—
+talkmap/leaflet_dist/screen.css	Template example content/assets	Preserved at _template_examples/talkmap/leaflet_dist/screen.css; excluded from publication	—
+talkmap/map.html	Template example content/assets	Preserved at _template_examples/talkmap/map.html; excluded from publication	—
+talkmap/org-locations.js	Template example content/assets	Preserved at _template_examples/talkmap/org-locations.js; excluded from publication	—
+talkmap_out.ipynb	Template generator/sample data	Preserved; excluded from publication; replace samples before use	—

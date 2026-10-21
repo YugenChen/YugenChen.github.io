@@ -1,0 +1,37 @@
+### Job Market Paper {#job-market-paper}
+
+**{{ site.data.research.job_market_paper.title }}**
+
+{{ site.data.research.job_market_paper.description }}
+
+{% if site.data.research.job_market_paper.paper_url %}
+[Paper]({{ site.data.research.job_market_paper.paper_url | relative_url }})
+{% else %}
+*Paper link to be added.*
+{% endif %}
+
+### Other Working Papers / Work in Progress {#other-working-papers}
+
+{% for paper in site.data.research.working_papers %}
+**{{ paper.title }}**{% if paper.coauthors %} — with {{ paper.coauthors }}{% endif %}
+
+{{ paper.description }}{% if paper.paper_url %} [Paper]({{ paper.paper_url | relative_url }}){% endif %}
+
+{% endfor %}
+
+#### Work in Progress
+
+{% for paper in site.data.research.work_in_progress %}
+**{{ paper.title }}**{% if paper.coauthors %} — with {{ paper.coauthors }}{% endif %}
+
+{{ paper.description }}{% if paper.paper_url %} [Paper]({{ paper.paper_url | relative_url }}){% endif %}
+
+{% endfor %}
+
+*Additional paper links to be added.*
+
+### Publications
+
+{% for publication in site.data.research.publications %}
+- {{ publication.citation }}{% if publication.url %} [Article]({{ publication.url }}){% endif %}
+{% endfor %}

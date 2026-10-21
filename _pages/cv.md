@@ -1,64 +1,28 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+[Download my CV (PDF)]({{ '/files/cv.pdf' | relative_url }})
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+{% for degree in site.data.cv.education %}
+- **{{ degree.area }}**, {{ degree.institution }}, {{ degree.endDate }}.
+{% endfor %}
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Health Economics, Industrial Organization, and Pharmaceutical Markets. Research affiliation: USC Schaeffer Center.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Research and Job Market Paper]({{ '/' | relative_url }}#research)
+
+## Teaching
+
+{% include teaching-list.html %}
+
+For the complete CV, including research experience, publications, and service, please see the PDF above.
