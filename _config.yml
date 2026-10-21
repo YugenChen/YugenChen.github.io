@@ -22,7 +22,7 @@ repository               : "YugenChen/YugenChen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yugen-chen-profile.jpg"
+  avatar           : "profile.png"
   name             : "Yugen Chen"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics · USC Schaeffer Center"

@@ -15,7 +15,7 @@ Repository: YugenChen/YugenChen.github.io; default branch: master.
 - `_config.yml`: identity, email, GitHub profile, and root-site settings.
 - `_pages/talks.html`: presentation list.
 
-`images/yugen-chen-profile.jpg` is a resized, compressed web copy of the supplied profile photo, without retouching. The sidebar safely omits an unset photo if it is removed later. An unused pre-existing portrait with a UUID filename has not been assigned an identity.
+`images/profile.png` is the photo uploaded directly to the repository by Yugen Chen. The sidebar safely omits an unset photo if it is removed later. An unused pre-existing portrait with a UUID filename has not been assigned an identity.
 
 ## Build and verify
 

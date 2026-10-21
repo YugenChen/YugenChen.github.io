@@ -8,7 +8,7 @@ Audited all 313 original tracked files, including text/configuration, PDF conten
 - `_pages/about.md`, `_data/research.yml`, `_includes/research.html`: introduction, Job Market Paper, other working papers, work in progress, and publications grounded in the supplied CV and project descriptions. Public article URLs were extracted from the CV's hyperlinks.
 - `_data/navigation.yml`: working Research, Job Market Paper, Teaching, and CV links.
 - `files/cv.pdf`: latest supplied CV, byte-for-byte; lowercase canonical filename. Former owner's uppercase CV and main paper removed.
-- `images/yugen-chen-profile.jpg`: resized, compressed web copy of the supplied photo, without retouching. Six former-owner profile JPEGs removed; an unused UUID-named portrait is unverified and has not been configured as Yugen Chen.
+- `images/profile.png`: photo uploaded directly to the repository by Yugen Chen and used as supplied. Six former-owner profile JPEGs removed; an unused UUID-named portrait is unverified and has not been configured as Yugen Chen.
 - `_data/authors.yml`, `_data/cv.json`, `_pages/cv.md`, `_pages/cv-json.md`: replace example identities and qualifications with verified data; correct CV summary links and redirects.
 - `_pages/teaching.html`, `_includes/teaching-list.html`: verified teaching experience from the supplied CV.
 - `_pages/publications.html`, `_pages/portfolio.html`, `_pages/talks.html`, `_pages/talkmap.html`: accurate research/presentation content; remove demonstration claims and sample map from the public site.
