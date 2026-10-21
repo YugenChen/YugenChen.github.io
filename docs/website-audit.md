@@ -65,3 +65,5 @@ Teaching is now labeled Teaching Assistance on the homepage and standalone teach
 ## Larger profile portrait
 
 Increased the desktop portrait width from 175px to 262.5px (50%) and the compact avatar from 36px to 54px. The portrait retains its source aspect ratio. Desktop sidebar space and the adjacent article width account for the larger photo so it is not clipped or drawn over the text. Before this change, browser measurement at a 1363px viewport showed a 175 × 213.95px portrait.
+
+The main stylesheet URL includes a build timestamp so browsers retrieve updated styles after deployment instead of retaining the previous portrait dimensions.
