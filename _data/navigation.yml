@@ -2,9 +2,7 @@
 main:
   - title: "Research"
     url: /#research
-  - title: "Job Market Paper"
-    url: /#job-market-paper
   - title: "Teaching"
     url: /#teaching
   - title: "CV"
-    url: /files/cv.pdf
+    url: /files/yugen-chen-cv.pdf

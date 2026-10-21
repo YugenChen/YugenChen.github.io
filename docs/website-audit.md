@@ -33,3 +33,7 @@ Ruby 3.2.3 / Jekyll 4.4.1 production build succeeded with strict front matter. R
 ## Repository / public address
 
 The repository was already renamed to `YugenChen/YugenChen.github.io`; `Yugen-Website` redirects to it. Root-site configuration: `url: https://yugenchen.github.io`, `baseurl: ""`. Public address: https://yugenchen.github.io/.
+
+## Research hierarchy and CV follow-up
+
+Research and Teaching remain H2 sections. Job Market Paper, Working Papers / Work in Progress, and Publications are peer H3 sections; each paper title is H4. Abstracts from the uploaded CV are presented under expandable Abstract controls, including the JMP, rebate working paper, mortality/unemployment working paper and global-health report. All three CV work-in-progress items are listed without invented abstracts. The global-health spending report appears under Publications as forthcoming November 2026 with the named initiative. Header navigation contains Research, Teaching and CV. Every CV entry now points to files/yugen-chen-cv.pdf, containing the exact latest uploaded CV; the old lowercase path remains a compatibility copy.

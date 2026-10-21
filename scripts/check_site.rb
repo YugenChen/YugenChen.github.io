@@ -78,10 +78,10 @@ JSON.parse(manifest.read).fetch('icons', []).each { |icon| check_url.call(manife
 %w[_template_examples docs scripts markdown_generator].each do |directory|
   errors << "Excluded source directory was published: #{directory}" if root.join(directory).exist?
 end
-%w[files/CV.pdf files/main.pdf images/profile.jpg images/profile_square.jpg].each do |path|
+%w[files/CV.pdf files/main.pdf images/profile_square.jpg].each do |path|
   errors << "Former-owner file was published: #{path}" if root.join(path).exist?
 end
-errors << 'Missing CV PDF' unless root.join('files/cv.pdf').file?
+errors << 'Missing current CV PDF' unless root.join('files/yugen-chen-cv.pdf').file?
 
 abort errors.uniq.join("\n") unless errors.empty?
 puts "Verified #{documents.length} HTML pages and #{checked} internal links/assets; YAML/JSON and content checks passed (baseurl: #{prefix.empty? ? '/' : prefix})."

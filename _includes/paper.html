@@ -1,0 +1,16 @@
+{% assign paper = include.paper %}
+<article class="research-paper">
+  <h4>{{ paper.title }}</h4>
+  {% if paper.coauthors %}<p><em>with {{ paper.coauthors }}</em></p>{% endif %}
+  {% if paper.authors %}<p>{{ paper.authors }}</p>{% endif %}
+  {% if paper.status %}<p><em>{{ paper.status }}</em></p>{% endif %}
+  {% if paper.venue %}<p><em>{{ paper.venue }}</em></p>{% endif %}
+  {% if paper.abstract %}
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    {{ paper.abstract | markdownify }}
+  </details>
+  {% endif %}
+  {% if paper.paper_url %}<p><a href="{{ paper.paper_url | relative_url }}">Paper</a></p>{% endif %}
+  {% if paper.url %}<p><a href="{{ paper.url }}">Article</a></p>{% endif %}
+</article>

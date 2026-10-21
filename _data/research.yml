@@ -1,26 +1,81 @@
-# Titles, coauthors, and status are transcribed from USC_YChen (2)(1).pdf.
-# The short JMP description uses the research scope supplied for this update.
-# Add paper URLs only after the intended public PDFs/links are supplied.
+# Titles, abstracts, coauthors and publication details transcribed from USC_YChen (2)(1).pdf.
+# Missing public paper URLs are intentionally blank.
 job_market_paper:
-  title: "The Cure Can Be Worse Than the Disease: Interdependence Between Network Design and Cost Sharing in Medicare Part D"
-  description: "I study how losing a credible nonpreferred replacement pharmacy affects pharmacy benefit managers’ copay steering and preferred-pharmacy network incentives in Medicare Part D. The paper examines the relationship between pharmacy competition, bargaining threats, and patient cost sharing."
-  paper_url:
+  title: 'The Cure Can Be Worse Than the Disease: Interdependence Between Network Design and Cost Sharing
+    in Medicare Part D'
+  abstract: Pharmacy benefit managers (PBMs) influence where Medicare Part D beneficiaries fill prescriptions
+    through both preferred pharmacy network design and differences in out-of-pocket costs across pharmacies.
+    This paper studies whether these two instruments are strategically interdependent. I examine how local
+    copay differentials change when a nonpreferred pharmacy that may constrain a PBM’s network strategy
+    closes. Using Medicare Part D Prescription Drug Event data from 2019–2022 linked to pharmacy ownership,
+    network status, and closure information, I construct local markets around nonpreferred pharmacies
+    and compare affected plan–pharmacy relationships with comparable relationships that have not yet experienced
+    a closure. The empirical design exploits variation across plans within the same geographic market
+    and pharmacy organization while controlling for pre-event pharmacy importance and plan dependence.
+    I find that 30-day copay differentials increase by around 50% following the loss of a threatening
+    nonpreferred pharmacy, with the response evolving over time. The results show that network structure
+    and cost sharing are jointly determined tools of pharmacy steering, implying that policies affecting
+    one PBM contracting margin can induce adjustment along another.
+  paper_url: null
 working_papers:
-  - title: "Sticky Fingers? Retention of Negotiated Drug Discounts by Pharmacy Benefit Managers"
-    coauthors: "Alice Chen and Darius Lakdawalla"
-    description: "The 2019 rebate-rule rescission and pharmaceutical intermediary valuation."
-    paper_url:
+- title: Sticky Fingers? Retention of Negotiated Drug Discounts by Pharmacy Benefit Managers
+  coauthors: Alice Chen and Darius Lakdawalla
+  status: Working paper
+  abstract: We study how confidential rebates affect producer surplus across the U.S. pharmaceutical supply
+    chain. Using the July 11, 2019, rescission of a proposed rebate pass-through rule as an unanticipated
+    shock, we estimate how investors value rebate confidentiality. The rescission increased market capitalization
+    for PBMs with rebate aggregators by 6.86% and insurers without PBMs by 6.09%, while reducing market
+    capitalization for brand-name manufacturers by 2.81%. Our estimates imply that PBMs retain only 1.9%
+    to 7.4% of rebates, but that share represents 26% to 62% of PBM profits. Results are consistent with
+    confidential rebates redistributing surplus from manufacturers to intermediaries without creating
+    value and potentially leading to 3.7 fewer drug approvals annually.
+  paper_url: null
+- title: The Relationship Between Mortality and Unemployment in 36 OECD Countries
+  status: Working paper
+  abstract: This paper examines whether the relationship between unemployment and mortality varies over
+    the business cycle and with the strength of social welfare systems, using data from 36 OECD countries
+    from 1979–2016. I distinguish short- and long-term unemployment and estimate dynamic panel models
+    using fixed effects, Difference GMM, System GMM, and bias-corrected LSDV. The results suggest that
+    social welfare spending attenuates the association between unemployment fluctuations and mortality.
+    A 1% increase in the expenditure-to-GDP ratio for incapacity and health programs reduces the mortality
+    response associated with a 1% decline in unemployment by approximately 0.14% and 0.04%, respectively.
+    The attenuation is particularly pronounced for long-term unemployment and becomes roughly four times
+    larger in the long run.
+  paper_url: null
 work_in_progress:
-  - title: "Beneficiary Financial Burden and Pharmacy Benefit Manager Market Concentration"
-    coauthors: "Dima Qato and Christopher Scannell"
-    description: "PBM concentration and beneficiary cost sharing."
-    paper_url:
-  - title: "Private Labeling and Co-labeling by Pharmacy Benefit Managers"
-    coauthors: "Alice Chen and Darius Lakdawalla"
-    description: "Private-label biosimilars and vertical integration in pharmacy benefit management."
-    paper_url:
+- title: Private Labeling and Co-labeling by Pharmacy Benefit Managers
+  coauthors: Alice Chen and Darius Lakdawalla
+  status: Work in progress
+  paper_url: null
+- title: Beneficiary Financial Burden and Pharmacy Benefit Manager Market Concentration
+  coauthors: Dima Qato and Christopher Scannell
+  status: Work in progress
+  paper_url: null
+- title: U.S. Retail Pharmacy Landscape
+  coauthors: Dima Qato and Christopher Scannell
+  status: Work in progress
+  paper_url: null
 publications:
-  - citation: "Qato DM, Chen Y, Van Nuys K. Pharmacy Benefit Manager Market Concentration for Prescriptions Filled at Retail Pharmacies by State and Payer Type. JAMA Health Forum. 2026;7(2):e256546."
-    url: "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2844609"
-  - citation: "Qato DM, Chen Y, Van Nuys K. Pharmacy Benefit Manager Market Concentration for Prescriptions Filled at US Retail Pharmacies. JAMA. 2024;332(15):1298–1299."
-    url: "https://jamanetwork.com/journals/jama/article-abstract/2823618"
+- title: Impact of Federal Global Health Spending on California’s Economy
+  venue: Forthcoming November 2026, California Global Health Leadership Initiative
+  abstract: This report estimates the economic activity and patented innovation associated with U.S. federal
+    global-health-related funding in California. Combining USAspending transaction records, BEA RIMS II
+    input-output modeling, patent linkage and valuation, and two expert interviews, we identify $19.0
+    billion in net federal obligations during 2016–2025. In 2024 dollars, $21.5 billion in obligations
+    is associated with $30.2–$46.3 billion in output, $19.2–$28.6 billion in value added, and approximately
+    157,000–239,000 job-years, depending on whether modeled household spending is included. Federal awards
+    are also linked to 104 patents, or 49.37 patents after weighting by California inventor shares, with
+    benchmark private values of $1.78 billion using mean KPSS estimates and $574 million using medians,
+    both in 1982 dollars. Interviews illustrate how funding may sustain specialized research capacity
+    and complementary financing. These estimates document the economic footprint and innovation associated
+    with federal global-health-related funding.
+  paper_url: null
+- title: Pharmacy Benefit Manager Market Concentration for Prescriptions Filled at Retail Pharmacies by
+    State and Payer Type
+  authors: Qato DM, Chen Y, Van Nuys K.
+  venue: JAMA Health Forum. 2026;7(2):e256546.
+  url: https://jamanetwork.com/journals/jama-health-forum/fullarticle/2844609
+- title: Pharmacy Benefit Manager Market Concentration for Prescriptions Filled at US Retail Pharmacies
+  authors: Qato DM, Chen Y, Van Nuys K.
+  venue: JAMA. 2024;332(15):1298–1299.
+  url: https://jamanetwork.com/journals/jama/article-abstract/2823618
