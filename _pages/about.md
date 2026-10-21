@@ -18,10 +18,12 @@ My research focuses on **Health Economics, Industrial Organization, and Pharmace
 
 {% include research.html %}
 
-## Teaching {#teaching}
+## TA/RA {#ta-ra}
+
+### Teaching {#teaching}
 
 {% include teaching-list.html %}
 
-## Research Assistance {#research-assistance}
+### Research Assistance {#research-assistance}
 
 {% include research-assistance.html %}

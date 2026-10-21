@@ -53,3 +53,7 @@ Every publication citation now bolds Chen Y in its author list. Research Assista
 ## Concise research assistance layout
 
 The latest layout screenshot supersedes the expanded experience entries above. Research Assistance now lists Timothy Armstrong (Su2022 - Win2022), Karen Van Nuys (Fall2023 - Sp2025), and Alice Chen (Sp2025 – present), in that order. Each entry has a regular-weight Professor name at left, dates at right, and one short italic topic on the next line. Long descriptions and institution lines have been removed. Scoped styles match the screenshot's relative font sizes and spacing; dates wrap onto their own line on narrow mobile screens.
+
+## Combined TA/RA section
+
+Teaching and Research Assistance are now peer H3 subsections within the H2 TA/RA section. Their existing content templates and styling are unchanged. The masthead links to TA/RA; the existing teaching and research-assistance anchors continue to work.

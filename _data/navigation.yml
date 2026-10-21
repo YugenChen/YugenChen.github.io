@@ -2,9 +2,7 @@
 main:
   - title: "Research"
     url: /#research
-  - title: "Teaching"
-    url: /#teaching
-  - title: "Research Assistance"
-    url: /#research-assistance
+  - title: "TA/RA"
+    url: /#ta-ra
   - title: "CV"
     url: /files/yugen-chen-cv.pdf
