@@ -117,3 +117,37 @@ html { scroll-behavior: smooth; }
   font-weight: normal;
   line-height: 1.5;
 }
+
+// Two-line CV entries: professor and dates above a short italic research topic.
+.research-assistance {
+  margin-bottom: 1.8em;
+  font-size: $type-size-6;
+  font-weight: normal;
+  line-height: 1.3;
+
+  .research-assistance__header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.25em 1em;
+    margin: 0;
+    font-size: inherit;
+  }
+
+  .research-assistance__dates {
+    margin-left: auto;
+    white-space: nowrap;
+  }
+
+  .research-assistance__topic {
+    margin: 0.4em 0 0;
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 30em) {
+  .research-assistance .research-assistance__dates {
+    flex-basis: 100%;
+    margin-left: 0;
+  }
+}

@@ -49,3 +49,7 @@ Abstract controls and text now match paper-title sizing, with a smaller gap afte
 ## Author emphasis and expanded research assistance
 
 Every publication citation now bolds Chen Y in its author list. Research Assistance now uses the owner's latest experience screenshot, superseding the earlier CV-only summary: PBM rebate rule (09/2024–Present), PBM industry concentration (08/2023–Present), and the rdhonest Stata routine (06/2022–05/2023). Each project includes its institution, supervisors with Professor before each name, dates, and concise descriptions grounded in the screenshot. The owner's latest sidebar biography is preserved.
+
+## Concise research assistance layout
+
+The latest layout screenshot supersedes the expanded experience entries above. Research Assistance now lists Timothy Armstrong (Su2022 - Win2022), Karen Van Nuys (Fall2023 - Sp2025), and Alice Chen (Sp2025 – present), in that order. Each entry has a regular-weight Professor name at left, dates at right, and one short italic topic on the next line. Long descriptions and institution lines have been removed. Scoped styles match the screenshot's relative font sizes and spacing; dates wrap onto their own line on narrow mobile screens.
