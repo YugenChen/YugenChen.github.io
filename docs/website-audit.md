@@ -61,3 +61,7 @@ Teaching and Research Assistance are now peer H3 subsections within the H2 TA/RA
 ## Matching teaching and research assistance lists
 
 Teaching is now labeled Teaching Assistance on the homepage and standalone teaching page. Research Assistance uses the same Markdown list format as Teaching Assistance, with Professor names bolded like course titles, followed by dates and research topics in regular text. The earlier two-line RA-only styles were removed; all names, dates, topics, and existing anchors are retained.
+
+## Larger profile portrait
+
+Increased the desktop portrait width from 175px to 262.5px (50%) and the compact avatar from 36px to 54px. The portrait retains its source aspect ratio. Desktop sidebar space and the adjacent article width account for the larger photo so it is not clipped or drawn over the text. Before this change, browser measurement at a 1363px viewport showed a 175 × 213.95px portrait.
