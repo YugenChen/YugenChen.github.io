@@ -86,3 +86,14 @@ html { scroll-behavior: smooth; }
   font-size: 0.9em;
   line-height: 1.4;
 }
+
+// Match coauthors, author lists and publication details to the paper-title size.
+.research-paper .paper-title,
+.research-paper .paper-meta {
+  font-size: $type-size-6;
+}
+
+.research-paper .paper-title .paper-article-link {
+  font-size: inherit;
+  white-space: nowrap;
+}

@@ -1,16 +1,14 @@
 {% assign paper = include.paper %}
 <article class="research-paper">
-  <h4>{{ paper.title }}</h4>
-  {% if paper.coauthors %}<p><em>with {{ paper.coauthors }}</em></p>{% endif %}
-  {% if paper.authors %}<p>{{ paper.authors }}</p>{% endif %}
-  {% if paper.status %}<p><em>{{ paper.status }}</em></p>{% endif %}
-  {% if paper.venue %}<p><em>{{ paper.venue }}</em></p>{% endif %}
-  {% if paper.abstract %}
+  <h4 class="paper-title">{{ paper.title }}{% if paper.url %} <a class="paper-article-link" href="{{ paper.url }}">[<em>Article</em>]</a>{% endif %}</h4>
+  {% if paper.coauthors %}<p class="paper-meta"><em>with {{ paper.coauthors }}</em></p>{% endif %}
+  {% if paper.authors %}<p class="paper-meta">{{ paper.authors }}</p>{% endif %}
+  {% if paper.venue %}<p class="paper-meta"><em>{{ paper.venue }}</em></p>{% endif %}
+  {% if paper.abstract and paper.show_abstract != false %}
   <details class="paper-abstract">
     <summary>Abstract</summary>
     {{ paper.abstract | markdownify }}
   </details>
   {% endif %}
-  {% if paper.paper_url %}<p><a href="{{ paper.paper_url | relative_url }}">Paper</a></p>{% endif %}
-  {% if paper.url %}<p><a href="{{ paper.url }}">Article</a></p>{% endif %}
+  {% if paper.paper_url %}<p class="paper-meta"><a href="{{ paper.paper_url | relative_url }}">Paper</a></p>{% endif %}
 </article>

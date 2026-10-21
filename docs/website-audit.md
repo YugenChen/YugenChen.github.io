@@ -37,3 +37,7 @@ The repository was already renamed to `YugenChen/YugenChen.github.io`; `Yugen-We
 ## Research hierarchy and CV follow-up
 
 Research and Teaching remain H2 sections. Job Market Paper, Working Papers / Work in Progress, and Publications are peer H3 sections; each paper title is H4. Abstracts from the uploaded CV are presented under expandable Abstract controls, including the JMP, rebate working paper, mortality/unemployment working paper and global-health report. All three CV work-in-progress items are listed without invented abstracts. The global-health spending report appears under Publications as forthcoming November 2026 with the named initiative. Header navigation contains Research, Teaching and CV. Every CV entry now points to files/yugen-chen-cv.pdf, containing the exact latest uploaded CV; the old lowercase path remains a compatibility copy.
+
+## Research typography follow-up
+
+Removed the duplicate homepage CV/email row while keeping the header CV and sidebar Email links. Paper coauthors, publication authors and venue information now share the title font size. Working-paper/work-in-progress status labels no longer render. Article links appear inline as [Article] immediately after publication titles and inherit the title font size. The global-health spending report's abstract remains in source data but is hidden on the site.
