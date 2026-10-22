@@ -121,12 +121,12 @@ html { scroll-behavior: smooth; }
 // Reserve space for the enlarged portrait without clipping it or covering text.
 @include breakpoint($large) {
   #main > .sidebar {
-    width: 262.5px;
+    width: 315px;
     max-width: none;
   }
 
   #main > .sidebar + .page {
-    width: calc(100% - 262.5px - 1em);
+    width: calc(100% - 315px - 1em);
     padding-left: 0;
   }
 }
