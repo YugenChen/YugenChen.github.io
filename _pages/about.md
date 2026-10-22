@@ -14,6 +14,8 @@ I am **Yugen Chen**, a Ph.D. Candidate in Economics at the **University of South
 
 My research focuses on **Health Economics, Industrial Organization, and Pharmaceutical Markets**. I study pharmaceutical intermediaries, pharmacy competition, and patient cost sharing.
 
+**I am on the 2026–2027 job market.**
+
 ## Research {#research}
 
 {% include research.html %}
