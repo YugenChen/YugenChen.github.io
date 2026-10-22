@@ -71,3 +71,7 @@ The main stylesheet URL includes a build timestamp so browsers retrieve updated 
 ## Chinese profile name and another portrait increase
 
 Added the configurable author.name_zh field, displayed as bold 陈 余根 on a separate line immediately below Yugen Chen in the sidebar heading. Increased portrait width a further 20%, from 262.5px to 315px on desktop and from 54px to 64.8px in the compact layout. Updated the reserved desktop sidebar space to match.
+
+## RDHonest link and profile name follow-up
+
+Linked the word rdhonest in Timothy Armstrong's RA entry to the owner-supplied https://github.com/tbarmstr/RDHonest-vStata repository. Removed author.name_zh from the profile configuration so the newly added Chinese name no longer appears beneath Yugen Chen. The latest portrait sizing is retained.
