@@ -10,7 +10,7 @@ Repository: YugenChen/YugenChen.github.io; default branch: master.
 - `_pages/about.md`: introduction and homepage sections.
 - `_data/research.yml`: Job Market Paper, working papers, work in progress, and publications. Titles/coauthors are sourced from the supplied CV; descriptions use the owner-supplied project scope. Blank paper links are intentional.
 - `_data/cv.json`: verified education and teaching for the HTML CV summaries.
-- `files/yugen-chen-cv.pdf`: the supplied CV (USC_YChen(3).pdf), used by every CV navigation/download link. Update the version query on those links when replacing the PDF so browsers load the new file. `files/cv.pdf` remains an identical compatibility copy. Do not create `CV.pdf`.
+- `files/yugen-chen-cv.pdf`: the supplied CV (USC_YChen(5).pdf), used by every CV navigation/download link. Update the version query on those links when replacing the PDF so browsers load the new file. `files/cv.pdf` remains an identical compatibility copy. Do not create `CV.pdf`.
 - `_data/navigation.yml`: header links.
 - `_config.yml`: identity, email, GitHub profile, and root-site settings.
 - `_pages/talks.html`: presentation list.
