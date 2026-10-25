@@ -30,6 +30,6 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/yugen-chen-cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/yugen-chen-cv.pdf?v=20261025" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ '/cv/' | relative_url }}" class="btn btn--inverse">View CV summary</a>
 </div>

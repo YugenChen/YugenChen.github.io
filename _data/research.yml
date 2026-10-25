@@ -1,21 +1,24 @@
-# Titles, abstracts, coauthors and publication details transcribed from USC_YChen (2)(1).pdf.
+# Research details from supplied CVs; current JMP title and abstract supplied by the owner with USC_YChen(3).pdf.
 # Missing public paper URLs are intentionally blank.
 job_market_paper:
-  title: 'The Cure Can Be Worse Than the Disease: Interdependence Between Network Design and Cost Sharing
-    in Medicare Part D'
-  abstract: Pharmacy benefit managers (PBMs) influence where Medicare Part D beneficiaries fill prescriptions
-    through both preferred pharmacy network design and differences in out-of-pocket costs across pharmacies.
-    This paper studies whether these two instruments are strategically interdependent. I examine how local
-    copay differentials change when a nonpreferred pharmacy that may constrain a PBM’s network strategy
-    closes. Using Medicare Part D Prescription Drug Event data from 2019–2022 linked to pharmacy ownership,
-    network status, and closure information, I construct local markets around nonpreferred pharmacies
-    and compare affected plan–pharmacy relationships with comparable relationships that have not yet experienced
-    a closure. The empirical design exploits variation across plans within the same geographic market
-    and pharmacy organization while controlling for pre-event pharmacy importance and plan dependence.
-    I find that 30-day copay differentials increase by around 50% following the loss of a threatening
-    nonpreferred pharmacy, with the response evolving over time. The results show that network structure
-    and cost sharing are jointly determined tools of pharmacy steering, implying that policies affecting
-    one PBM contracting margin can induce adjustment along another.
+  title: 'The Cure Can Be Worse Than the Disease: Network Design and Cost Sharing in Medicare'
+  abstract: >-
+    Pharmacy benefit managers (PBMs) negotiate with pharmacies and steer patients through cost sharing.
+    I examine how losing a potential replacement for an incumbent preferred pharmacy affects these
+    incentives. In a bargaining model, replacement threats and copay steering are imperfect substitutes:
+    when preferred designations adjust slowly, losing a cost-competitive nonpreferred alternative widens
+    the dispensing-cost difference between tiers, increasing the gains from steering toward preferred
+    pharmacies. Using 2019–2022 generic prescription data from stand-alone Medicare Part D plans, I
+    compare local markets around closing nonpreferred pharmacies that could replace preferred incumbents
+    with markets around eligible pharmacies that close later in a dynamic difference-in-differences
+    design. In the first post-closure quarter, the nonpreferred-minus-preferred out-of-pocket payment
+    gap during initial coverage increases by $1.58 per 30-day supply, approximately 42 percent of the
+    reference gap. The preferred-minus-nonpreferred prescription-count difference also increases early.
+    Subsequent payment-gap estimates are smaller and statistically insignificant, while preferred
+    designations gradually change. Payment-gap responses are small during the deductible phase,
+    following preferred pharmacy closures, and in the vertically integrated CVS/Aetna/Caremark
+    subsample. These findings suggest that supplier alternatives shape patient price incentives and that
+    policies expanding preferred access should account for subsequent adjustments in cost sharing.
   paper_url: null
 working_papers:
 - title: Sticky Fingers? Retention of Negotiated Drug Discounts by Pharmacy Benefit Managers
