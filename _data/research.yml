@@ -2,6 +2,8 @@
 # Missing public paper URLs are intentionally blank.
 job_market_paper:
   title: 'The Cure Can Be Worse Than the Disease: Network Design and Cost Sharing in Medicare'
+  url: 'https://www.dropbox.com/scl/fi/z5phkm6fibb6zucbx5ugf/YChen_JMP.pdf?rlkey=4e1qza7qe4gz6k14p8mxlg2on&dl=0'
+  link_label: link
   abstract: >-
     Pharmacy benefit managers (PBMs) negotiate with pharmacies and steer patients through cost sharing.
     I examine how losing a potential replacement for an incumbent preferred pharmacy affects these
