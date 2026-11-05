@@ -12,7 +12,7 @@ redirect_from:
 
 I am **Yugen Chen**, a Ph.D. Candidate in Economics at the **University of Southern California**, with a research affiliation at the **USC Schaeffer Center**.
 
-My research focuses on **Health Economics, Industrial Organization, and Pharmaceutical Markets**. I study pharmaceutical intermediaries, pharmacy competition, and patient cost sharing.
+My research spans **Empirical Industrial Organization**, **Health Economics**, and **Applied Microeconomics**, with a particular focus on **Pharmacy Benefit Managers (PBMs)**, **Pharmaceutical Markets**, **Market Power**, and **Network Design**.
 
 **I am on the 2026–2027 job market.**
 
