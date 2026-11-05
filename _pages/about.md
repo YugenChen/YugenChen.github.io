@@ -29,3 +29,7 @@ My research spans **Empirical Industrial Organization**, **Health Economics**, a
 ### Research Assistance {#research-assistance}
 
 {% include research-assistance.html %}
+
+### Research Lead {#research-lead}
+
+- **California's Global Health Dividend Chapter2**, Su2026–Present.
