@@ -7,7 +7,7 @@ redirect_from:
   - /resume/
 ---
 
-[Download my CV (PDF)]({{ '/files/yugen-chen-cv.pdf?v=c80d4cb8fd48' | relative_url }})
+[Download my CV (PDF)]({{ '/files/yugen-chen-cv.pdf?v=a427e7818722' | relative_url }})
 
 ## Education
 

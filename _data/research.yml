@@ -61,11 +61,11 @@ work_in_progress:
   status: Work in progress
   paper_url: null
 publications:
-- title: Impact of Federal Global Health Spending on California’s Economy
+- title: The Impact of Federal Global Health Spending on California’s Economy
   authors: Chen Y.
   url: https://www.theglobalfight.org/californiareport/
   show_abstract: false
-  venue: California Global Health Leadership Initiative. Forthcoming November 2026.
+  venue: "In California’s Global Health Dividend: The Case for State Leadership. California Global Health Leadership Initiative. 2026. Chapter 2, pp. 39–62."
   abstract: This report estimates the economic activity and patented innovation associated with U.S. federal
     global-health-related funding in California. Combining USAspending transaction records, BEA RIMS II
     input-output modeling, patent linkage and valuation, and two expert interviews, we identify $19.0
